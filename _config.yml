@@ -20,7 +20,7 @@ author: Vamsi Krishna Kolamgari
 ###############################################
 
 navbar-links:
-  About Me: "I am a web developer who is passionate about technology and enjoys travelling and exploring differnt types of food."
+  About Me: "https://vamsi.pushparaj.xyz/portfolio"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
