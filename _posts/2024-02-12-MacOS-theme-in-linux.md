@@ -9,6 +9,6 @@ comments: true
 author: Vamsi Krishna Kolamgari
 ---
 
-![Crepe](KVK666/kvk666.github.io/assets/img/HomePage.png){: .mx-auto.d-block :}
+![Crepe](assets/img/HomePage.png){: .mx-auto.d-block :}
 
 ## Under Construction!
