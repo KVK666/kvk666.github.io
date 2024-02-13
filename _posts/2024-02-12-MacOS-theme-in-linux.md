@@ -9,6 +9,6 @@ comments: true
 author: Vamsi Krishna Kolamgari
 ---
 
-![Crepe](assets/img/HomePage.png){: .mx-auto.d-block :}
+![Crepe](../assets/img/HomePage.png){: .mx-auto.d-block :}
 
 ## Under Construction!
