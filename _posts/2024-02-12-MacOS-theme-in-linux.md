@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlock the macOS Look & Feel: Themes, Icons, and Dock on Debian"
+title: Transforming the Defualt Linux Theme into a Sleek macOS theme
 subtitle: "Go Beyond Just Themes: Achieve the Full macOS Aesthetic"
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -9,6 +9,23 @@ comments: true
 author: Vamsi Krishna Kolamgari
 ---
 
-![Crepe](../assets/img/HomePage.png){: .mx-auto.d-block :}
+![Final Home Page](../assets/img/HomePage.png){: .mx-auto.d-block :}
+This is how the final home screen looks like! Let's get started with the customization.
 
-## Under Construction!
+
+## 1. Theme
+
+![Theme](../assets/img/Theme.png){: .mx-auto.d-block :}
+
+### Install the theme
+
+Run 
+~~~ 
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1 
+~~~
+
+Run
+~~~
+./install.sh
+~~~
+to install the default whitesur theme 
