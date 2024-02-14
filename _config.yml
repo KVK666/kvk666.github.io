@@ -22,9 +22,9 @@ author: Vamsi Krishna Kolamgari
 navbar-links:
   About Me: "https://vamsi.pushparaj.xyz/portfolio"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Resume: "vamsi.pushparaj.xyz/html-resume"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: 
 
 ################
 # --- Logo --- #
@@ -56,7 +56,7 @@ social-network-links:
   github: kvk666
   twitter: vamsi_kvk_
   # patreon: DeanAttali
-  youtube: "@daattali"
+  youtube: "@vamsi_kvk_"
 #  medium: yourname
 #  reddit: yourname
   linkedin: vamsikrishnakolamgari
@@ -198,7 +198,7 @@ footer-hover-col: "#0085A1"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5702325024849920-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
