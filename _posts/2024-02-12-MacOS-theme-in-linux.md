@@ -76,12 +76,12 @@ Just enable this GNOME extension and customize it as you like - [Dash to Dock GN
 
 These are some of the extensions which you need to install/enable
 
-[1. Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
-[2. Compiz windows effect ](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
-[3. Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
-[4. Desktop Icons NG (DING) ](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/)
-[5. Just Perfection ](https://extensions.gnome.org/extension/3843/just-perfection/)
-[6. Search Light](https://extensions.gnome.org/extension/5489/search-light/)
+[1. Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)  
+[2. Compiz windows effect ](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)  
+[3. Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)  
+[4. Desktop Icons NG (DING) ](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/)  
+[5. Just Perfection ](https://extensions.gnome.org/extension/3843/just-perfection/)  
+[6. Search Light](https://extensions.gnome.org/extension/5489/search-light/)  
 
 Know what these extensions do and then install them 
 
