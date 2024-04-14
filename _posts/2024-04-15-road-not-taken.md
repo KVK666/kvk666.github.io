@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Road Not Taken
-cover-img: /assets/img/Road_not_taken/Designer.png
-thumbnail-img: /assets/img/Road_not_taken/Designer.png
-share-img: /assets/img/Road_not_taken/Designer.png
+cover-img: /assets/img/Road_not_taken/Designer_cropped.png
+thumbnail-img: /assets/img/Road_not_taken/robert_frost.webp
+share-img: /assets/img/Road_not_taken/Designer_cropped.png
 tags: [books, poem]
 author: Robert Frost
 ---
